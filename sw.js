@@ -3,7 +3,6 @@
 importScripts('sw-toolbox.js');
 
 toolbox.precache([
-	"/",
 	"/index.html",       
        "/js/vue.min.js",       
        "/katex/katex.min.js",
